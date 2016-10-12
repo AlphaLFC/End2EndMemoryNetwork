@@ -17,4 +17,4 @@ class Config(object):
     learning_rate = 1e-2
     name ='memory'
     save_file = './weights/mem00'
-    load_file = './weights/mem01'
+    load_file = './weights/mem00'
