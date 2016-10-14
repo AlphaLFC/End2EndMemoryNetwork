@@ -9,3 +9,5 @@ Set parameters in config.py.
 
 Reference:
 https://github.com/domluna/memn2n
+
+This is just code refactoring of the reference project.
